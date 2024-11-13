@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", function () {
     "Please give me a chance! 🙏",
     "I'll be Sad na :(",
     "Man Jao Na Pilij",
-    "If you click yes I will take you to momos date❤️",
+    "If you click okay I will take you to momos date❤️",
   ];
 
   let questionIndex = 0;
